@@ -6,3 +6,5 @@ I was curious about the number of people per hospital as well as any other cool 
 demographic information.
 
 To see my analysis checkout the [1-Exploratory-Analysis Notebook](notebooks/1-Exploratory-Analysis.ipynb).
+
+The `requirements.txt` file is a bit overkill as I just saved the whole standard Anaconda environment for Python 3.8. Realistically, all that's needed is Pandas, NumPy, Basemap, and the Basemap High Res data.
